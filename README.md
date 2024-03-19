@@ -1,4 +1,4 @@
-1. Cheltuieli de familie
+Aplicatie pentru cheltuieli de familie
 O familie dorește să își organizeze cheltuielile lunare și are nevoie de o aplicație care să
 permită stocarea tuturor cheltuielilor dintr-o anumită lună. Pentru fiecare cheltuială se cunosc
 ziua din lună în care a fost efectuată (între 1 și 28/29/30/31), suma de bani (întreg pozitiv) și
